@@ -1,1 +1,1 @@
-# ds-infections-example
+# covid-infection-example
