@@ -1,1 +1,1 @@
-# covid-infection-example
+# Covid-infections-example
